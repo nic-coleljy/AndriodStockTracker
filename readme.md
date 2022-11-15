@@ -7,3 +7,9 @@
 3. In ```app/build.grade```, replace ```buildConfigField("String", "API_KEY", '"example"')``` with ```buildConfigField("String", "API_KEY", '"<YOUR API KEY FROM FINNHUB>"')```
 4. Click on Run in Android Studio to run the app on emulated device
 
+<br>
+<b> Credits: </b><br>
+1. Arvin Aik Tai Quan <br>
+2. Nicole Lim Jia Yi <br>
+3. Ruwan Lin Syhen Sadrid <br>
+4. Claire Liew <br>
